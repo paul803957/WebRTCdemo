@@ -19,8 +19,11 @@
   "bugs": {
     "url": "https://github.com/shanet/WebRTC-Example/issues"
   },
+  "engines": {
+    "node": "19.x"
+  },
   "homepage": "https://github.com/shanet/WebRTC-Example#readme",
   "dependencies": {
-    "ws": "^3.3.2"
+    "ws": "^3.3.3"
   }
 }
